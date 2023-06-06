@@ -35,3 +35,4 @@
 | Documentation       | Some advanced features may be less documented | Limited features for advanced use        | Less mature compared to other options   |
 | Adjustability       | Limited flexibility for complex setups        | Limited flexibility for complex setups   | Limited flexibility for complex setups  |
 
+Simple demo of starting nginx using k3d https://asciinema.org/a/590036
